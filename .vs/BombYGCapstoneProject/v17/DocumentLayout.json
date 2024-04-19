@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\BombYGCapstoneProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B58EA8E-833C-86AA-8260-54DADC9DC13B}|Assembly-CSharp.csproj|c:\\users\\jkjk0\\desktop\\unitygit\\bombygcapstoneproject\\assets\\01.script\\playtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B58EA8E-833C-86AA-8260-54DADC9DC13B}|Assembly-CSharp.csproj|solutionrelative:assets\\01.script\\playtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E0905A-1EB6-3559-27FA-6E9A05338DD4}|Oculus.VR.csproj|c:\\users\\jkjk0\\desktop\\unitygit\\bombygcapstoneproject\\assets\\oculus\\vr\\scripts\\ovrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E0905A-1EB6-3559-27FA-6E9A05338DD4}|Oculus.VR.csproj|solutionrelative:assets\\oculus\\vr\\scripts\\ovrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayTV.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\BombYGCapstoneProject\\Assets\\01.Script\\PlayTV.cs",
+              "RelativeDocumentMoniker": "Assets\\01.Script\\PlayTV.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\BombYGCapstoneProject\\Assets\\01.Script\\PlayTV.cs",
+              "RelativeToolTip": "Assets\\01.Script\\PlayTV.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:18:09.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OVRManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\BombYGCapstoneProject\\Assets\\Oculus\\VR\\Scripts\\OVRManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Oculus\\VR\\Scripts\\OVRManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\BombYGCapstoneProject\\Assets\\Oculus\\VR\\Scripts\\OVRManager.cs",
+              "RelativeToolTip": "Assets\\Oculus\\VR\\Scripts\\OVRManager.cs",
+              "ViewState": "AQIAAHwLAAAAAAAAAAA6wJoLAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:17:25.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
